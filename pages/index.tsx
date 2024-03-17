@@ -18,6 +18,7 @@ const Home: NextPage = () => {
         </h1>
 
         <div className={styles.grid}>
+
           <a
             href="https://github.com/vercel/next.js/tree/canary/examples"
             className={styles.card}
